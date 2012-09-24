@@ -1,0 +1,25 @@
+//French
+plupload.addI18n({
+    'Select files' : 'SÃƒÂ©lectionnez les fichiers',
+    'Add files to the upload queue and click the start button.' : 'Ajoutez des fichiers ÃƒÂ  la file et appuyez sur le bouton dÃƒÂ©marrer.',
+    'Filename' : 'Nom de fichier',
+    'Status' : 'Status',
+    'Size' : 'Taille',
+    'Add files' : 'Ajouter Fichiers',
+    'Stop current upload' : 'ArrÃƒÂªter l\'envoi en cours',
+    'Start uploading queue' : 'DÃƒÂ©marrer l\'envoi',
+    'Uploaded %d/%d files': '%d/%d fichiers envoyÃƒÂ©s',
+    'N/A' : 'Non applicable',
+    'Drag files here.' : 'DÃƒÂ©poser les fichiers ici.',
+    'File extension error.': 'Erreur extension fichier',
+    'File size error.': 'Erreur taille fichier.',
+    'Init error.': 'Erreur d\'initialisation.',
+    'HTTP Error.': 'Erreur HTTP.',
+    'Security error.': 'Erreur de sÃƒÂ©curitÃƒÂ©.',
+    'Generic error.': 'Erreur gÃƒÂ©nÃƒÂ©rique.',
+    'IO error.': 'Erreur E/S.',
+    'Stop Upload': 'ArrÃƒÂªter les envois.',
+    'Add Files': 'Ajouter des fichiers',
+    'Start Upload': 'DÃƒÂ©marrer les envois.',
+    '%d files queued': '%d fichiers en attente.'
+});
